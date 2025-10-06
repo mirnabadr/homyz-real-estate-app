@@ -11,12 +11,62 @@
 ## 📱 Screenshots
 
 <div align="center">
-  <img src="screenshots/home-screen.png" alt="Home Screen" width="200" />
-  <img src="screenshots/property-details.png" alt="Property Details" width="200" />
-  <img src="screenshots/explore-screen.png" alt="Explore Screen" width="200" />
+  <h3>🏡 Homyz - Modern Real Estate Mobile App</h3>
+  
+  <table>
+    <tr>
+      <td align="center">
+        <img src="screenshots/home-screen.png" alt="Home Screen - Featured Properties" width="300" />
+        <br>
+        <strong>Home Screen</strong>
+        <br>
+        <em>Featured properties and recommendations</em>
+      </td>
+      <td align="center">
+        <img src="screenshots/property-details.png" alt="Property Details - Gallery & Reviews" width="300" />
+        <br>
+        <strong>Property Details</strong>
+        <br>
+        <em>Image gallery and user reviews</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" colspan="2">
+        <img src="screenshots/explore-screen.png" alt="Explore Screen - Search & Filters" width="300" />
+        <br>
+        <strong>Explore Screen</strong>
+        <br>
+        <em>Advanced search and filtering system</em>
+      </td>
+    </tr>
+  </table>
+  
+  <p><em>📱 Screenshots showcasing the modern UI/UX design, property listings, and interactive features</em></p>
 </div>
 
-*Screenshots showcasing the modern UI/UX design, property listings, and interactive features*
+> **📸 Screenshot Status**: Placeholder images are currently displayed. Real screenshots will be added to showcase the app's professional design and functionality.
+
+### 📸 **Adding Real Screenshots**
+
+To add professional screenshots to this repository:
+
+1. **Take Screenshots** from your running app:
+   - iOS Simulator: `Cmd + S`
+   - Android Emulator: Use camera icon in toolbar
+   - Physical device: Use device screenshot function
+
+2. **Save with exact filenames**:
+   - `screenshots/home-screen.png` - Home screen with featured properties
+   - `screenshots/property-details.png` - Property details with gallery and reviews  
+   - `screenshots/explore-screen.png` - Explore screen with search and filters
+
+3. **Recommended dimensions**: 375x812px (iPhone X) or similar mobile aspect ratio
+
+4. **Content requirements**:
+   - Show app with populated data (not empty states)
+   - Display key features and functionality
+   - Ensure clean, professional appearance
+   - Include both light and dark mode if applicable
 
 ## ✨ Key Features
 
