@@ -358,7 +358,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Developer
 
-**Mirna Badr** - Senior Mobile Developer
+**Mirna Badr** -  Mobile Developer
 
 - **LinkedIn**: https://www.linkedin.com/in/mirna-b-ibrahim/
 - **Email**:  mirna.b.ibrahim@gmail.com 
