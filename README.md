@@ -10,8 +10,18 @@
 
 ## 📱 Screenshots
 
-<div align="center">
-  <img src="screenshots/home-screen.png" alt="Home Screen" width="200" />
+<div align="center"><img width="382" height="819" <img width="391" height="817" alt="Explore 2" src="https://github.com<img width="392" height="815" alt="Property details 1" src="https://github.com/user-attachments/assets/0d271839-35f4-4e6e-b9a2-1a496bdc00c4" /><img width="385" height="815" alt="property details 2" src="https://github.com/user-attachments/assets/418dc42d-f950-4015-a0bc-7da7eae6c911" />
+<img width="396" height="816" alt="Reviews" src="https://github.com/user-attachments/assets/2a5aedfd-540c-4dfb-9aca-3df228564d4b" />
+
+/user-attachments/assets/68d9b558-853a-4a94-843c-ac7549819387" />
+alt="Home1" <img width="389" height="816" alt="Home 2" <i<img width="377" height="796" alt="My bookings" src="https://github.com/user-attachments/assets/23453fa5-44b7-4b9f-8a29-a65d7aab5328" />
+mg width="373" height="807" alt="Explore1" src="https://github.com/user-attachments/assets/4c0ee20b-c7d1-410f-847f-0642406dc3ec" />
+src="https://github.com/user-attachments/assets/84cf72b0-16e3-4696-9edc-d663420dde6d" /><img width="388" height="784" alt="Profile" src="https://github.com/user-attachments/assets/4da4bb56-fd45-4b96-b2bd-7cd1d766e260" /><img width="386" height="796" alt="Profile" src="https://github.com/user-attachments/assets/2239d2f2-9952-4101-90f1-4ead9b3345fc" />
+
+
+src="https://github.com/user-attachments/assets/452f34cc-a531-438d-b1fd-1a6fcfc4251d" />
+
+  <img src="screenshots/" alt="Home Screen" width="200" />
   <img src="screenshots/property-details.png" alt="Property Details" width="200" />
   <img src="screenshots/explore-screen.png" alt="Explore Screen" width="200" />
 </div>
